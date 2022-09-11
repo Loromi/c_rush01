@@ -105,6 +105,8 @@ if (square[row][col] == < '\0' | 0 >)
 
 #### `view == 1`
 
+##### Helper Function to access the corresponding cells
+
 ```ts
 /*
  @param axis:   row, col represented by 1, 0
